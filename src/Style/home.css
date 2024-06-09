@@ -1,0 +1,26 @@
+.hero_section{
+  background: var(--hero-bg);
+}
+.hero_section h2{
+  color: var(--primary-color);
+}
+.hero_section p{
+  color: var(--primary-color);
+  
+}
+.timer_counter{
+  background: var(--primary-color);
+  height: 300px;
+}
+.timer_counter img{
+  width: 70% !important;
+  height: 70% !important;
+  object-fit: contain;
+}
+
+.visit-btn a:hover{
+  color: var(--primary-color);
+}
+.shop-btn a:hover{
+ color: #fff;
+}

@@ -1,0 +1,12 @@
+.checkout-cart{
+  background: var(--primary-color);
+  /* background: red; */
+}
+.checkout-cart h6, h4{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.checkout-cart h6{
+  margin-bottom: 20px;
+}

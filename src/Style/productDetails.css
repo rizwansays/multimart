@@ -1,0 +1,72 @@
+.product_rating span i{
+  color: coral;
+}
+.rating{
+  color: coral;
+}
+.desc-color{
+  color: var(--primary-color);
+
+}
+
+.tab-wrapper{
+  color: var(--primary-color);
+  font-size: 1rem;
+}
+.active-tab{
+  font-weight: 600;
+}
+
+.tab-content p{
+  line-height: 30px;
+}
+.review-wrapper ul li{
+  font-weight: 550;
+}
+.review-wrapper ul li span{
+  color: coral;
+}
+.review-wrapper p{
+  /* color: var(--primary-color); */
+  color: grey;
+}
+.tab-content p{
+  color: grey;
+}
+.review-form{
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.review-form h4{
+  font-size : 1.2rem;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  border: 1px solid var(--primary-color);
+  border-radius: 5px;
+  padding: 8px 20px;
+}
+
+.form-group input:focus,
+.form-group textarea:focus
+ {
+  outline: none;
+
+}
+.form-group {
+  margin-bottom: 30px;
+}
+.form-group span{
+  display: flex;
+  align-items: center;
+  column-gap: 5px;
+  color: coral;
+  font-weight: 600;
+  cursor: pointer;
+}

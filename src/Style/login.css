@@ -1,0 +1,9 @@
+.auth-form{
+  background: var(--primary-color);
+  padding: 40px;
+  border-radius: 5px;
+}
+.auth-form input[type='file']{
+  color: white;
+  cursor:pointer;
+}

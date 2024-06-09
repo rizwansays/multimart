@@ -1,0 +1,20 @@
+.product_info h3 a{
+  font-size: 1rem;
+  color: var(--primary-color);
+
+}
+.product_info a:hover{
+  color: inherit;
+}
+.product_card_bottom .price{
+  color: var(--primary-color);
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.product_card_bottom span i{
+  font-size: 1rem;
+  padding: 5px;
+  background: var(--primary-color);
+  color: #fff;
+  border-radius: 50px;
+}
